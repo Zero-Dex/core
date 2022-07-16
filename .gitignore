@@ -1,0 +1,9 @@
+node_modules/
+build/
+tests
+migrations
+multichain-test
+ganache-test
+hardhat-simulation
+.history
+.vscode
